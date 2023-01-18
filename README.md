@@ -2,7 +2,7 @@
 
 Rendez-vous de début de séance :
 
-Dans le cadre de la simuation :
+Dans le cadre de la simuation : 
 Il est préférable de ne pas regarder l'API fournie sur Github et tout faire de nous-même à partir de rien.
 Il faut simuler un environnement pour le robot.
 Les affichages à présenter peuvent provenir de print dans les méthodes.
